@@ -1,0 +1,32 @@
+{
+  "name": "subvocalimiter",
+  "version": "1.0.0",
+  "description": "Increase speed reading by eliminating sub-vocalization.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jun3rd/subvocalimiter.git"
+  },
+  "keywords": [
+    "speed",
+    "reading",
+    "sub-vocalization"
+  ],
+  "author": "Jun Alvarado <jun3rd@gmail.com> (https://github.com/jun3rd)",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/jun3rd/subvocalimiter/issues"
+  },
+  "homepage": "https://github.com/jun3rd/subvocalimiter#readme",
+  "jest": {
+    "coverageDirectory": "public/coverage"
+  },
+  "devDependencies": {
+    "eslint": "^8.23.1",
+    "jest": "^29.0.3",
+    "jsdocs": "^0.0.1"
+  }
+}

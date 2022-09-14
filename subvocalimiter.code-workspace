@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "public"
+		},
+		{
+			"path": "src"
+		},
+		{
+			"path": "test"
+		}
+	],
+	"settings": {}
+}
